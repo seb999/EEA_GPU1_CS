@@ -1,0 +1,6 @@
+@EEEA_GPU1_CS_HostAddress = http://localhost:5095
+
+GET {{EEA_GPU1_CS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
